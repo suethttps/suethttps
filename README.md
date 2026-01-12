@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/ViniciusAcordiSoethe">
+  <a href="https://github.com/suethttps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suethttps&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suethttps&layout=compact&langs_count=7&theme=gotham"/>
 </div>
@@ -29,16 +29,3 @@
   <img align="center" alt="Soethe-composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
           
           
-          
-          
-  
-</div>
-  
-  ##
- 
-<div> 
-  <img align="right" alt="Soethe" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/383344514871459840/973041277375479869/perfil.png?width=676&height=676">
-  <a href="https://www.youtube.com/channel/UC1usAxMQqBTjQjv-5nMoqJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/thesoethe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/soethe_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciusacordisoethe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
