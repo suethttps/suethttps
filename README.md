@@ -11,15 +11,17 @@
 
 ### 🇺🇸 About
 
-Web Development and DevOps engineer with hands-on experience building and scaling systems with **Node.js, Vue.js, PHP, and Django**, plus cloud-native tooling. I automate deployments and CI/CD pipelines with **GitHub Actions, Bitbucket Pipelines, GitLab CI/CD, Docker, and Kubernetes**.
+I have extensive experience in Web Development and DevOps, with a strong background in building, maintaining, and scaling systems using technologies such as Node.js, Vue.js, PHP, Django, and cloud-native tooling. Throughout my career, I’ve worked with deployment automation and CI/CD pipelines using GitHub Actions, Bitbucket Pipelines, GitLab CI/CD, as well as Docker and Kubernetes. 
 
-> ⚡ Currently leveraging **AI** in my workflow to boost productivity by **~70%**, shrinking delivery cycles from **months to weeks**.
+More recently, I have been highly focused on leveraging AI to significantly increase productivity by automating repetitive and time-consuming tasks. This approach has enabled me to achieve remarkable efficiency gains—reaching improvements of over 55% in development speed and up to 78% in code quality, particularly in areas such as automated testing and clean architecture practices.
+
+> ⚡ Currently leveraging **AI** in my workflow to boost productivity by **~50%**, shrinking delivery cycles from **months to weeks**.
 
 ### 🇧🇷 Sobre
 
-Engenheiro de Desenvolvimento Web e DevOps com experiência em construir e escalar sistemas usando **Node.js, Vue.js, PHP e Django**, além de ferramentas cloud-native. Automatizo deploys e pipelines de CI/CD com **GitHub Actions, Bitbucket Pipelines, GitLab CI/CD, Docker e Kubernetes**.
+Tenho ampla experiência em Desenvolvimento Web e DevOps, com uma sólida base na construção, manutenção e escalabilidade de sistemas utilizando tecnologias como Node.js, Vue.js, PHP, Django e ferramentas cloud-native. Ao longo da minha trajetória, atuei com automação de deploy e pipelines de CI/CD utilizando GitHub Actions, Bitbucket Pipelines e GitLab CI/CD, além de Docker e Kubernetes. Mais recentemente, tenho focado fortemente no uso de IA para aumentar significativamente a produtividade, automatizando tarefas repetitivas e operacionais. Essa abordagem tem gerado ganhos expressivos de eficiência, alcançando melhorias superiores a 55% em velocidade de desenvolvimento e até 78% em qualidade de código, especialmente em testes automatizados e práticas de clean architecture.
 
-> ⚡ Atualmente atuando com **IA** no meu fluxo de trabalho, aumentando a produtividade em **~70%** e reduzindo o tempo de entrega de **meses para semanas**.
+> ⚡ Atualmente atuando com **IA** no meu fluxo de trabalho, aumentando a produtividade em **~50%** e reduzindo o tempo de entrega de **meses para semanas**.
 
 ---
 
