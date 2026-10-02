@@ -4,7 +4,7 @@
 
 # Vinícius (Soethe) Acordi Soethe
 
-**DevOps | Software Engineer** — Joinville, Santa Catarina, Brasil
+**Software Engineer** — Joinville, Santa Catarina, Brasil
 [BoxTI](https://www.linkedin.com/company/box-ti/) · [LinkedIn](https://www.linkedin.com/in/viniciusacordisoethe/)
 
 ---
