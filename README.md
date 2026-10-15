@@ -11,17 +11,11 @@
 
 ### 🇺🇸 About
 
-I have extensive experience in Web Development and DevOps, with a strong background in building, maintaining, and scaling systems using technologies such as Node.js, Vue.js, PHP, Django, and cloud-native tooling. Throughout my career, I’ve worked with deployment automation and CI/CD pipelines using GitHub Actions, Bitbucket Pipelines, GitLab CI/CD, as well as Docker and Kubernetes. 
-
-More recently, I have been highly focused on leveraging AI to significantly increase productivity by automating repetitive and time-consuming tasks. This approach has enabled me to achieve remarkable efficiency gains—reaching improvements of over 55% in development speed and up to 78% in code quality, particularly in areas such as automated testing and clean architecture practices.
-
-> ⚡ Currently leveraging **AI** in my workflow to boost productivity by **~50%**, shrinking delivery cycles from **months to weeks**.
+I have around 7 years of software development experience, working with PHP, Vue.js, TypeScript, Node.js, and backend architecture. I have experience modernizing legacy systems, designing scalable architectures, and implementing CI/CD pipelines, automated testing, and reliable deployment and rollback strategies. As a Tech Lead, I focus on code quality, team guidance, and leveraging AI tools such as Claude Code and Codex to accelerate development without compromising reliability. I have also worked with international clients, financial applications, payment integrations, and RAG-based solutions. I’m always looking for opportunities to apply strong software engineering practices and AI-assisted development to deliver high-quality solutions efficiently.
 
 ### 🇧🇷 Sobre
 
-Tenho ampla experiência em Desenvolvimento Web e DevOps, com uma sólida base na construção, manutenção e escalabilidade de sistemas utilizando tecnologias como Node.js, Vue.js, PHP, Django e ferramentas cloud-native. Ao longo da minha trajetória, atuei com automação de deploy e pipelines de CI/CD utilizando GitHub Actions, Bitbucket Pipelines e GitLab CI/CD, além de Docker e Kubernetes. Mais recentemente, tenho focado fortemente no uso de IA para aumentar significativamente a produtividade, automatizando tarefas repetitivas e operacionais. Essa abordagem tem gerado ganhos expressivos de eficiência, alcançando melhorias superiores a 55% em velocidade de desenvolvimento e até 78% em qualidade de código, especialmente em testes automatizados e práticas de clean architecture.
-
-> ⚡ Atualmente atuando com **IA** no meu fluxo de trabalho, aumentando a produtividade em **~50%** e reduzindo o tempo de entrega de **meses para semanas**.
+Tenho cerca de 7 anos de experiência em desenvolvimento de software, trabalhando com PHP, Vue.js, TypeScript e Node.js. Tenho experiência em arquitetura de sistemas, modernização de sistemas legados, testes automatizados e pipelines de CI/CD. Como Tech Lead, foco em qualidade, agilidade e uso de IA para acelerar o desenvolvimento com segurança. Também tenho experiência com clientes internacionais, aplicações financeiras e soluções com RAG.
 
 ---
 
